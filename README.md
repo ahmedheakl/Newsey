@@ -12,6 +12,6 @@ Newsey is a real-time mobile application for displaying news from different pres
 
 # App Demo 
 <p align="center">
-  <img src="https://github.com/ahmedheakl/Newsey/blob/main/newsey_gif.gif" width=200 height=400>
+  <img src="https://github.com/ahmedheakl/Newsey/blob/main/newsey_gif.gif" width=250 height=450>
 </p>
 
